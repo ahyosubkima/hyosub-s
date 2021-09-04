@@ -1,5 +1,3 @@
-```java
-
 import java.util.Scanner;
 
 // 메트로폴리스의 기준은 아래 두 조건 중 하나를 만족해야합니다.

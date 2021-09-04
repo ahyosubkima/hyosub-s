@@ -36,3 +36,10 @@ public static void main(String[] args) {
 		
 	}
 	else {System.out.println("메트로폴리스여부:false");
+		
+	}
+
+
+
+}
+}
